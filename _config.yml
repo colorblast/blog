@@ -1,16 +1,17 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: fleeting
+description: I claim to know nothing
+meta_description: "cs, philosophy, literature, humanism"
 
 markdown: kramdown
 highlighter: pygments
+cover: assets/images/beach.jpg
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'https://misgivings.me/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Your Name'
+url:            'https://misgivings.me/blog'
+author:         'Jonathan Wong'
