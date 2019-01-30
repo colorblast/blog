@@ -9,6 +9,7 @@ logo: false
 paginate: 15
 baseurl: "/blog"
 domain_name: 'https://misgivings.me/blog'
+BASE_PATH: https://misgivings.me/blog
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
