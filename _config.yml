@@ -1,5 +1,5 @@
-name: fleeting
-description: I claim to know nothing
+title: fleeting
+description: but very opinionated
 meta_description: "cs, philosophy, literature, humanism"
 
 markdown: kramdown
@@ -9,7 +9,6 @@ logo: false
 paginate: 15
 baseurl: "/blog"
 domain_name: 'https://misgivings.me/blog'
-BASE_PATH: https://misgivings.me/blog
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
