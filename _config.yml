@@ -7,7 +7,7 @@ highlighter: pygments
 cover: assets/images/beach.jpg
 logo: false
 paginate: 15
-baseurl: /
+baseurl: "/blog"
 domain_name: 'https://misgivings.me/blog'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
