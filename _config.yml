@@ -3,7 +3,7 @@ description: but very opinionated
 meta_description: "cs, philosophy, literature, humanism"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 cover: assets/images/beach.jpg
 logo: false
 paginate: 15
