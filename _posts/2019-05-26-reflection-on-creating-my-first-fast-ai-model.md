@@ -4,9 +4,6 @@ title: Reflection on Creating my first fast.AI model
 date: 2019-05-26 20:51 -0400
 ---
 
-# Reflection on Creating my first fast.AI model
-
-
 I've started to take the Practical Deep Learning for Coders course by Jeremy Howard and Rachel Thomas. The first lesson involved the building of a model to classify and differentiate between different dog and cat breeds based off the [Oxford IIIT dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/). Following along, resulted in similar results with low error thresholds.
 
 I determined to follow along with what Howard stated to do at the end of the video, to find his student Francisco's article on how to scrape Google Images and build a classifier.
