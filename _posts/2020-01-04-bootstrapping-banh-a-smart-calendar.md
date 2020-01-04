@@ -4,9 +4,6 @@ title: Bootstrapping Banh, a smart calendar
 date: 2020-01-04 12:14 -0400
 ---
 
-# Bootstrapping banh, a smart calendar
-
-TLDR: current productivity apps kinda suck and so I bootstrapped my own.
 I’ve always felt like current productivity solutions are kinda hit and miss. There’s your standard calendar, like Google Calendar. You get a calendar that lets you schedule events at respective timeslots, in an easy to use and forthright manner.
 
 You also have your todo lists. Todoist, Wunderlist (acquired and incorporated into Microsoft ToDo), any.do, and moo.do are all popular todo list solutions.
@@ -39,15 +36,15 @@ The reason for why calendars have such a high update is the event’s associatio
 
 Another upshot of this approach is that with this increased flexibility, you can schedule in things that better meet what you hope to achieve, bringing up the next point.
 
-2. Goal oriented
+2.&nbsp;Goal oriented
 
 Let’s be real. Most of you have goals. If you’re here, you’re frustrated about your current productivity, or interested in improving it. Tasks should be a mean towards achieving your goals, whether it’s getting a promotion, being a great dad, or staying fit. Banh lets you dump your goals in and devise a series of rules to better achieve these goals.
 
-3. Context aware
+3.&nbsp;Context aware
 
 I’m a New Yorker and have experienced my fair share of cold weather up here. This weather can directly impact my plans for things like exercise, as I try to bike to and from school twice a week. Banh will have a robust API to integrate the surrounding context, whether it be the weather, program closings, etc. such that you can better achieve your goals.
 
-4. Voice first
+4.&nbsp;Voice first
 
 I’m skeptical of voice tech. I don’t really use Google assistant and from what I know, voice tech is really limited to Alexa and some basic commands.
 
@@ -57,7 +54,7 @@ I think a large reason behind this lack of use of voice tech is  that there is n
 
 Banh will integrate voice when the MVP is firmly established.
 
-5. Suggestions
+5.&nbsp;Suggestions
 
 I still use todo lists right now. One of my problems with todo lists is when I have so much on my plate that when I get something with such low priority, I simply don’t assign it a priority or due date, and it never gets done. I never get reminded that the activity exists and needs to be done. Banh will have reminders and suggestions for certain events to be done earlier (flexible class), depending on whether a slot is open.
 
