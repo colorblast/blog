@@ -60,11 +60,11 @@ I still use todo lists right now. One of my problems with todo lists is when I h
 
 There are definitely times when I am more focused and productive and there are other times when I’m not so much. Suggestions help to alleviate and prevent the latter from affecting goal-achieving.
 
-6. Stats
+6.&nbsp;Stats
 
 Banh will have a robust stats page, designed to help you make the most of the data presented, to better achieve your goals.
 
-7. Ethical
+7.&nbsp;Ethical
 
 *Your data is your data.* I strongly believe in privacy and not making money from harvesting your data. Your app data will not be shared with third parties.
 
