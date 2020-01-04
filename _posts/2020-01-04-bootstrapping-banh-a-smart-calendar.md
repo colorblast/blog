@@ -74,4 +74,4 @@ I reserve the right to use Google Analytics (and you reserve the right to use an
 
 Transparency is also a key for me, given that we live in an age of misinformation. Banh will be an open startup, once I can get that apparatus going.
 
-If you’d like to use banh once it launches, I’d appreciate it if you signed up at [https://banh.app](banh.app). You’ve already read this far! :)
+If you’d like to use banh once it launches, I’d appreciate it if you signed up at [banh.app](https://banh.app). You’ve already read this far! :)
